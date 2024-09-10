@@ -1,0 +1,14 @@
+/* Adicione estilos personalizados aqui */
+
+body {
+    padding-top: 56px; /* Espaço para a navbar fixa */
+}
+
+header.jumbotron {
+    background-color: #f8f9fa;
+    margin-bottom: 0;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
